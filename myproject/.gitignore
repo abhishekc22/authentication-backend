@@ -1,0 +1,9 @@
+venv/
+.env/
+*.pyc
+*/migrations/
+*/locale/
+*.mo
+*.pot
+*.pyc
+*.js.map
