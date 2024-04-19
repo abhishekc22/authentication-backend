@@ -7,3 +7,4 @@ venv/
 *.pot
 *.pyc
 *.js.map
+.env
